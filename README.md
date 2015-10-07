@@ -1,2 +1,2 @@
-# catless_framework
+# Getting Started
 Developer's guide for Catless Framework
